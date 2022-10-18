@@ -1,0 +1,4 @@
+﻿Measure,P1:max(Vout),P2:max(Vout_TVS),P3:max(Vd601),P4:max(Vd604),P5:max(Pout),P6:max(Ptvs),P7:max(Iout),P8:max(I_TVS),P9:wid@lv(Ptvs),P10:fall(Ptvs),P11:area(Ptvs),P12:area(Pout),
+Unit,V,V,V,V,W,W,A,A,s,s,J,J,
+value,136.5,136.2,68.1,68.4,8.07e+3,6.82e+3,62.0,50.6,60.5073e-6,55.9501e-6,205.634397e-3,385.800169e-3,
+status,Valid.,Valid.,Valid.,Valid.,Valid.,Valid.,Valid.,Valid.,Parameter on falling edge.,Not a pulse.,Valid.,Valid.,

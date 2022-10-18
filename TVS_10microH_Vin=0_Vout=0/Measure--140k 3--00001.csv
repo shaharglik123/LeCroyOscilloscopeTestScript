@@ -1,0 +1,4 @@
+﻿Measure,P1:max(Vout),P2:max(Vout_TVS),P3:max(Vd601),P4:max(Vd604),P5:max(Pout),P6:max(Ptvs),P7:max(Iout),P8:max(I_TVS),P9:wid@lv(Ptvs),P10:fall(Ptvs),P11:area(Ptvs),P12:area(Pout),
+Unit,V,V,V,V,W,W,A,A,s,s,J,J,
+value,147.8,148.8,74.4,74.6,35.14e+3,25.77e+3,271.8,176.4,0,5.8028e-6,146.592928e-3,311.983648e-3,
+status,Valid.,Valid.,Valid.,Valid.,Valid.,Valid.,Valid.,Valid.,"Invalid parameter, Bad settings, Too little data, No data available, No edges found probably because Hysteresis is too high compared to amplitude or level is bad.",Valid.,Valid.,Valid.,
